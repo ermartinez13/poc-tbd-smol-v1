@@ -12,11 +12,7 @@ const MicroTaskForm = ({ createMicroTask, taskId }) => {
     event.preventDefault();
 
     // Invoke the createMicroTask function with the form data
-    createMicroTask({
-      name,
-      timeBudget,
-      taskId,
-    });
+    createMicroTask(name, timeBudget);
 
     // Clear the form fields
     setName("");

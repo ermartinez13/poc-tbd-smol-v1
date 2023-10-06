@@ -1,11 +1,11 @@
-import React, { useState } from 'react';
-import PropTypes from 'prop-types';
+import React, { useState } from "react";
+import PropTypes from "prop-types";
 
 // MicroTaskForm component for creating microtasks
 const MicroTaskForm = ({ createMicroTask, taskId }) => {
   // React useState hook for form fields
-  const [name, setName] = useState('');
-  const [timeBudget, setTimeBudget] = useState('');
+  const [name, setName] = useState("");
+  const [timeBudget, setTimeBudget] = useState(0);
 
   // Handle form submission
   const handleSubmit = (event) => {
@@ -19,8 +19,8 @@ const MicroTaskForm = ({ createMicroTask, taskId }) => {
     });
 
     // Clear the form fields
-    setName('');
-    setTimeBudget('');
+    setName("");
+    setTimeBudget("");
   };
 
   // Render the form

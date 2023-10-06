@@ -87,7 +87,7 @@ function App() {
           updateMicroTask={updateMicroTask}
         />
       )}
-      <Graph tasks={tasks} />
+      {/* <Graph tasks={tasks} /> */}
     </div>
   );
 }

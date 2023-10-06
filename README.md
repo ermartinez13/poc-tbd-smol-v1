@@ -2,7 +2,9 @@
 
 This repo contains the results from my intial attempt to generate a POC for the following [idea](https://handsome-femur-998.notion.site/TBD-d2425bb47fc1408e90e4ab928590f0bb?pvs=4) using AI. In particular, I am using [smol developer](https://github.com/smol-ai/developer) a self-described junior developer agent that can scaffold you the entire building blocks of an application given a detailed prompt.
 
-# Setup
+To see and play around with the generated application, checkout [this](https://codesandbox.io/p/github/ermartinez13/poc-with-smol-v1/main?file=/README.md&workspaceId=ce2ee9c5-9e3c-4906-8a66-51ac2d9f846b) codesandbox.
+
+# Smol-AI Setup
 
 The [smol developer's repo mode section](https://github.com/smol-ai/developer#in-git-repo-mode) provides straightforward instructions for executing the AI agent in your local machine, but I had to do some additional steps to get everything working.
 
@@ -41,7 +43,7 @@ Then, I started to manually verify its functionality and found that certain feat
 
 ## Additional Iterations
 
-This repo only holds the initial prompt and its generated files. To see the subsequent iterations, visit the links below:
+This repo only holds the initial prompt and its generated files. To see the [future] subsequent iterations, visit the links below:
 
 # Resouces
 

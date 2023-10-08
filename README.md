@@ -43,7 +43,9 @@ Then, I started to manually verify its functionality and found that certain feat
 
 ## Additional Iterations
 
-This repo only holds the initial prompt and its generated files. To see the [future] subsequent iterations, visit the links below:
+This repo only holds the initial prompt and its generated files. To see subsequent iterations, visit the links below:
+
+[Version 2](https://github.com/ermartinez13/poc-with-smol-v2)
 
 # Resouces
 

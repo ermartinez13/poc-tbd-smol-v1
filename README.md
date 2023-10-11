@@ -46,6 +46,7 @@ Then, I started to manually verify its functionality and found that certain feat
 This repo only holds the initial prompt and its generated files. To see subsequent iterations, visit the links below:
 
 [Version 2](https://github.com/ermartinez13/poc-with-smol-v2)
+[Version 3](https://github.com/ermartinez13/tbd-poc-v1)
 
 # Resouces
 
